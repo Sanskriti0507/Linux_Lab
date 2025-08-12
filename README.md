@@ -18,5 +18,5 @@ The touch command in Bash is mainly used to create empty files or update the tim
 ## Command "echo"
 The echo command in Bash is used to display text or variables in the terminal, and it can also write output to files. Here, it is used to enter "Hello World!" in a txt file. 
 
-### Script 1: Description of script 1
+## Image
 ![Image](image.png)
