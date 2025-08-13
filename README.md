@@ -20,5 +20,5 @@ The echo command in Bash is used to display text or variables in the terminal, a
 
 ## Image
 ![Image](image.png)
-![Image](<Screenshot (3).png>)
+![Image](<Screenshot (3)-1.png>)
 ![Image](<Screenshot (4).png>)
