@@ -87,7 +87,7 @@ chmod -R 755 folder
 
 ### Example:
 
-![Image](<Screenshot from 2025-08-20 08-01-09.png>)
+![Image](<Image/Screenshot from 2025-08-20 08-01-09.png>)
 
 
 # 3. "chown" – Change File Ownership:

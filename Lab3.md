@@ -22,7 +22,7 @@ Explanation: This command lists all the files.
 
 ## The output is as follows:
 
-![Image](ls.png)
+![Image](Image/ls.png)
 
 
 # "mkdir" command:
@@ -34,7 +34,7 @@ Explanation: The mkdir command in Bash is used to create new directories (folder
 
 ## The output is as follows:
 
-![Image](mkdir.png)
+![Image](Image/mkdir.png)
 
 
 # "cd" command:
@@ -46,7 +46,7 @@ Explanation: The cd command in Bash is used to change the current working direct
 
 ## The output is as follows:
 
-![Image](cd.png)
+![Image](Image/cd.png)
 
 
 # "touch" command:
@@ -58,7 +58,7 @@ Explanation: The touch command in Bash is mainly used to create empty files or u
 
 ## The output is as follows:
 
-![Image](touch.png)
+![Image](Image/touch.png)
 
 
 # "echo" command:
@@ -70,9 +70,9 @@ Explanation: The echo command in Bash is used to display text or variables in th
 
 ## The output is as follows:
 
-![Image](echo.png)
+![Image](Image/echo.png)
 
-![Image](<Screenshot (3)-1.png>)
+![Image](<Image/Screenshot (3)-1.png>)
 
 
 # "cat" command
@@ -84,7 +84,7 @@ Explanation: This command is used to display contents of file.
 
 ## The output is as follows:
 
-![Image](<Screenshot (6).png>)
+![Image](<Image/Screenshot (6).png>)
 
 
 # "nano" command:
@@ -96,7 +96,7 @@ Explanation: The nano command in bash is used to open and edit text files in a s
 
 ## The output is as follows:
 
-![Image](<Screenshot (7).png>)
+![Image](<Image/Screenshot (7).png>)
 
 
 # "clear" command:
@@ -116,7 +116,7 @@ Explanation: It prints the effective username of the current user.
 
 ## The output is as follows:
 
-![Image](<Screenshot from 2025-08-19 19-18-27.png>)
+![Image](<Image/Screenshot from 2025-08-19 19-18-27.png>)
 
 
 # "find" command:
@@ -129,7 +129,7 @@ Explanation: The find command in Linux is one of the most powerful tools for sea
 
 ## The output is as follows:
 
-![Image](<Screenshot from 2025-08-19 19-32-37.png>)
+![Image](<Image/Screenshot from 2025-08-19 19-32-37.png>)
 
 
 # "grep" command:
@@ -141,7 +141,7 @@ Explanation: This command is used for searching text patterns inside files or co
 
 ## The output is as follows:
 
-![Image](<Screenshot from 2025-08-19 19-38-49.png>)
+![Image](<Image/Screenshot from 2025-08-19 19-38-49.png>)
 
 
 # "rm" command:
@@ -154,7 +154,7 @@ Explanation: This command is used to remoove/delete files and directories.
 
 ## The output is as follows:
 
-![Image](<Screenshot from 2025-08-19 19-49-03.png>)
+![Image](<Image/Screenshot from 2025-08-19 19-49-03.png>)
 
 
 
