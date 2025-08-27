@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "Hello, World!"
+echo "Hello World!"
 
-name="Sanskriti"
-age="18"
+name=sanskriti
+age=18
 
 echo "My name is $name and I am $age years old."
