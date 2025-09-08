@@ -34,9 +34,9 @@ This ensures that multiple backups can be made without overwriting older ones.
 
 ### Example run:
 
-1- Make the script executable by `chmod 777 backup.sh`
-2- Make some txt files by `touch goose.txt` and `touch fish.txt`
-3- run the script by `./backup.sh`
+1- Make the script executable by `chmod 777 backup.sh` <br>
+2- Make some txt files by `touch goose.txt` and `touch fish.txt`<br>
+3- run the script by `./backup.sh`<br>
 
 ### Output:
 
