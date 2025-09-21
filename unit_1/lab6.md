@@ -20,7 +20,7 @@ echo "Hello, World!"
 
 ### Output:
 
-![image](Image/firstsh.png)
+![image](../Image/firstsh.png)
 
 
 ## 2. Variables
@@ -43,7 +43,7 @@ echo "My name is $name and I am $age years old."
 
 ### Output:
 
-![Image](Image/nameage.png)
+![Image](../Image/nameage.png)
 
 ### Environment variables
 
@@ -55,7 +55,7 @@ echo $PWD    # present working directory
 
 ### Output:
 
-![Image](Image/env.png)
+![Image](../Image/env.png)
 
 ## 3. User Input
 
@@ -70,7 +70,7 @@ echo "You chose $lang"
 
 ### Output:
 
-![Image](Image/input.png)
+![Image](../Image/input.png)
 
 
 ## 4. Conditional Statements (if-else)
@@ -182,7 +182,7 @@ echo "Number of arguments: $#"
 
 ### Output:
 
-![Image](Image/duck.png)
+![Image](../Image/duck.png)
 
 
 ## 8. Arrays
@@ -199,7 +199,7 @@ done
 
 ### Output
 
-![Image](Image/fruit.png)
+![Image](../Image/fruit.png)
 
 
 ## 9. Useful Commands in Scripts

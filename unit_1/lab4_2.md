@@ -42,7 +42,7 @@ ls -l testfile.txt
 ```
 
 ### Output:
-![Image](<Image/Screenshot from 2025-08-21 12-01-57.png>)
+![Image](<../Image/Screenshot from 2025-08-21 12-01-57.png>)
 
 
 ## 5. Assign ownership of the file to "newuser" and "newgroup"-
@@ -62,4 +62,4 @@ ls -l testfile.txt
 
 ## 7. Overall Output:
 
-![alt text](<Image/Screenshot from 2025-08-21 12-05-50.png>)
+![alt text](<../Image/Screenshot from 2025-08-21 12-05-50.png>)
