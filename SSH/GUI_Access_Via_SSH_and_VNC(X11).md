@@ -48,8 +48,10 @@ sudo chown -R tree:tree /home/tree/.ssh
 
 
 ### 🟣Output:
-![Screenshot 2025-10-31 105427.png](../_resources/Screenshot%202025-10-31%20105427.png)
-![Screenshot 2025-10-31 105639.png](../_resources/Screenshot%202025-10-31%20105639.png)
+
+![Image](<../Image/Screenshot 2025-10-31 105427.png>)
+
+![Image](<../Image/Screenshot 2025-10-31 105639.png>)
 
 ## 🔷Step 2: Connect & Test X11 Forwarding (Single GUI App)
 To be run in your personal laptop.
@@ -74,7 +76,7 @@ xclock &
 
 ### 🟣Output:
 
-![WhatsApp Image 2025-11-02 at 12.08.01 (2).jpeg](../_resources/WhatsApp%20Image%202025-11-02%20at%2012.08.01%20%282%29.jpeg)
+![Image](<../Image/WhatsApp Image 2025-11-02 at 12.08.01 (2).jpeg>)
 
 
 ## 🔷Step 3: Set Up VNC over SSH (Full Desktop)
@@ -111,7 +113,7 @@ This starts on the port `5902`.
 
 ### 🟣Output:
 
-![Screenshot 2025-11-03 184453.png](../_resources/Screenshot%202025-11-03%20184453.png)
+![Image](<../Image/Screenshot 2025-11-03 184453.png>)
 
 On the personal laptop:
 
@@ -134,4 +136,4 @@ localhost:5902
 
 ## 📁 Authorized_Keys File:
 
-![Screenshot 2025-11-03 230933.png](../_resources/Screenshot%202025-11-03%20230933.png)
+![Image](<../Image/Screenshot 2025-11-03 230933.png>)
