@@ -41,7 +41,7 @@ This repo contains all the lab assignments, lab work, scripts and experiments un
 ## Index:
 
 ### Assessment-1:
-- [Required script](Linux_Lab\Assessment_1\palindromeprime.sh)
+- [Required script](Assessment_1/Assessment_1.md)
 - [Explanation of the script](Linux_Lab\Assessment_1\Assessment_1.md)
 
 
